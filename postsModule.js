@@ -4,7 +4,7 @@ function Tweeter() {
 
   let _postsData = [];
 
-  const getPosts = () => _postsData;
+  const getPosts = () => [..._postsData];
 
   const addPost = text => {
     _postsData.push({
