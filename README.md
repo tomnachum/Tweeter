@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, we built the front-end of a tweeter app, using vanillaJS and Jquery.
+In this project, we built the front-end of a tweeter app, using Jquery.
 
 ![Alt text](/images/tweeter.png?raw=true "Optional Title")
 
